@@ -1,4 +1,4 @@
-# 🧾 List Comprehension:Generates all even numbers between 200 and 300
+# 🧾 List Comprehension:Generates all even numbers between 200 and 300.
 ## 🎯 AIM:
 To write a Python class-based program that generates all even numbers between 200 and 300 using **list comprehension**, and stores them in a list.
 
